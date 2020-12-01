@@ -177,7 +177,7 @@ in ```/tmp/PASSWORD```
 ### How to check the WebSphere Application Server installed level and ifixes
 
 ```
-   docker run websphere-traditional:9.0.5.0 versionInfo.sh -ifixes
+   docker run ibmcom/websphere-traditional:9.0.5.0 versionInfo.sh -ifixes
 ```
 
 ### Checking the logs
